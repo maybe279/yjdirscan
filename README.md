@@ -1,5 +1,5 @@
 ## 御剑目录扫描专业版&nbsp;&nbsp;<a href="https://www.microsoft.com/zh-CN/download/confirmation.aspx?id=30653">下载最低依赖：NET Framework 4.5</a>
-    ★软件免费共享但不开源，请在遵守法律法规的情况下使用该软件
+    ★软件免费共享但不开源，请在遵守法律法规的情况下使用该软件!
     ★程序使用了壳，可能会造成部分安全软件拦截，如果不放心可以在虚拟机下使用!
     
 ## 预告：v1.2 date:?
